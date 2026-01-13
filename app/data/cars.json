@@ -1,0 +1,76 @@
+{
+  "cars": [
+    {
+      "id": "aurora-1",
+      "name": "Aurora Compact",
+      "category": "Compact",
+      "seats": 4,
+      "transmission": "Automatic",
+      "pricePerDay": 48,
+      "location": "San Diego",
+      "rating": 4.7,
+      "features": ["Bluetooth", "Backup camera", "USB-C"],
+      "available": true
+    },
+    {
+      "id": "atlas-2",
+      "name": "Atlas SUV",
+      "category": "SUV",
+      "seats": 7,
+      "transmission": "Automatic",
+      "pricePerDay": 86,
+      "location": "Austin",
+      "rating": 4.9,
+      "features": ["All-wheel drive", "3rd row", "Heated seats"],
+      "available": true
+    },
+    {
+      "id": "sprint-3",
+      "name": "Sprint Hatch",
+      "category": "Economy",
+      "seats": 4,
+      "transmission": "Manual",
+      "pricePerDay": "39",
+      "location": "Portland",
+      "rating": 4.3,
+      "features": ["Great mileage", "USB-A", "Compact parking"],
+      "available": false
+    },
+    {
+      "id": "coast-4",
+      "name": "Coastline EV",
+      "category": "Electric",
+      "seats": 5,
+      "transmission": "Automatic",
+      "pricePerDay": 92.3,
+      "location": "Seattle",
+      "rating": 4.8,
+      "features": ["Fast charge", "Panoramic roof", "Driver assist"],
+      "available": true
+    },
+    {
+      "id": "ridge-5",
+      "name": "Ridge Pickup",
+      "category": "Truck",
+      "seats": 5,
+      "transmission": "Automatic",
+      "pricePerDay": 74,
+      "location": "Denver",
+      "rating": 4.5,
+      "features": ["Tow package", "Bed liner", "4x4"],
+      "available": true
+    },
+    {
+      "id": "metro-6",
+      "name": "Metro Coupe",
+      "category": "Sport",
+      "seats": 2,
+      "transmission": "Automatic",
+      "pricePerDay": 128,
+      "location": "Miami",
+      "rating": 4.6,
+      "features": ["Convertible", "Premium audio", "Sport mode"],
+      "available": false
+    }
+  ]
+}
